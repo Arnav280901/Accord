@@ -3,8 +3,6 @@ from tkinter import CASCADE
 from django.db import models
 from django.contrib.auth.models import User
 
-# superuser username - Arnav280901 pwd - arnav123456
-# username - shaurya pwd - niggersingh 
 # Create your models here.
 
 class Topic(models.Model):
